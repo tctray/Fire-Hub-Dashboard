@@ -13,7 +13,7 @@ Built for fast scanning and situational awareness: table + KPIs + alerts + map m
 - **Frontend:** HTML5, JavaScript (ES6+)
 - **Styling:** Tailwind CSS (CDN)
 - **Mapping:** Leaflet.js + OpenStreetMap tiles
-- **Live Data:** WFIGS (ArcGIS FeatureServer / REST JSON)
+- **Live Data:** CAL FIRE Incident API (REST JSON)
 - **CORS Handling:** Fetch routed through `corsproxy.io` for browser compatibility
 
 ## ✨ Features
